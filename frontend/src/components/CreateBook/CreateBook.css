@@ -1,0 +1,12 @@
+label {
+    padding-right: 30px;
+}
+
+input {
+    float: right;
+}
+
+.group {
+    max-width: 275px;
+    padding-bottom: 4px;
+}
